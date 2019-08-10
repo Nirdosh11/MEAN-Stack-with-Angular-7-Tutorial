@@ -1,0 +1,30 @@
+{
+  "name": "day5",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular 7",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nirdosh11/MEAN-Stack-with-Angular-7-Tutorial.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "7",
+    "Application"
+  ],
+  "author": "Nirdosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nirdosh11/MEAN-Stack-with-Angular-7-Tutorial/issues"
+  },
+  "homepage": "https://github.com/Nirdosh11/MEAN-Stack-with-Angular-7-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.9"
+  }
+}
